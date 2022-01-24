@@ -18,13 +18,10 @@
         
         .navbar {
             width: 99%;
-            padding: 2px;
-            margin: 10px;
-            margin-top: -1vw;
+            margin-top: -15vw;
             text-decoration: white;
             z-index: 1;
-            padding-top: 25px;
-            /* position: fixed; */
+            position: fixed;
         }
         
         nav {
@@ -132,13 +129,13 @@
             border: 1px solid #00DF5E;
             border-radius: 30px;
             width: 90vw;
-            height: 30vh;
+            height: 40vh;
             margin-left: 4.5vw;
         }
         
         .sobre-mim {
             margin-top: -4vw;
-            font-size: 26px;
+            font-size: 20px;
             padding: -50px;
             margin-left: 13px;
             text-align: center;
