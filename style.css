@@ -20,11 +20,11 @@
             width: 99%;
             padding: 2px;
             margin: 10px;
-            margin-top: -17vw;
+            margin-top: -1vw;
             text-decoration: white;
             z-index: 1;
             padding-top: 25px;
-            position: fixed;
+            /* position: fixed; */
         }
         
         nav {
