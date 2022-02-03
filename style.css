@@ -189,7 +189,7 @@
         
         .userRegistration-project {
             width: 315px;
-            height: 254px;
+            height: 292px;
         }
         
         .playstation-project {
@@ -218,15 +218,15 @@
         }
         
         .soon {
-            color: red;
-            font-size: 53px;
+            color: #00DF5E;
+            font-size: 36px;
             font-weight: 500;
-            margin-left: 81px;
-            margin-top: -135px;
+            margin-left: 75px;
+            margin-top: -140px;
         }
         
         .projeto1 {
-            margin-top: 95px;
+            margin-top: 102px;
             margin-left: -3px;
             color: #828282;
             font-size: 14px;
